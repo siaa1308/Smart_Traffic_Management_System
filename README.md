@@ -66,5 +66,3 @@ Open a second terminal and run:
 ```bash
 python client.py
 ```
-```
-```
